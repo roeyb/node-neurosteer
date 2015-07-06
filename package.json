@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/roeyb/node-neurosteer",
   "dependencies": {
-    "websocket-client": "^1.0.0"
+    "ws": "^0.7.2"
   }
 }
